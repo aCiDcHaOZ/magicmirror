@@ -1,0 +1,29 @@
+.presenceping {
+  line-height: 1.2;
+}
+
+.presenceping-table {
+  border-collapse: collapse;
+}
+
+.presenceping-row td {
+  padding: 2px 10px 2px 0;
+  vertical-align: top;
+}
+
+.presenceping-name {
+  font-weight: 600;
+}
+
+.presenceping-state.home {
+  font-weight: 600;
+}
+
+.presenceping-state.away {
+  opacity: 0.85;
+}
+
+.presenceping-info {
+  opacity: 0.85;
+  white-space: nowrap;
+}
